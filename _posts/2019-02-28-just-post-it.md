@@ -2,7 +2,7 @@
 layout: post
 title: just post it
 sub_heading: ''
-date: ''
+date: 2019-02-28 16:19:00 +0000
 tags: []
 banner_image: ''
 related_posts: []
