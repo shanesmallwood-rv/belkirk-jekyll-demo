@@ -1,6 +1,6 @@
 ---
-heading: HERO HEADING
-sub_heading: HERO SUB HEADING
+heading: ''
+sub_heading: ''
 layout: home
 title: PVP3 User Guide
 banner_image: ''
