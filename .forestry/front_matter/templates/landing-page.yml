@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- pvp3-user-guide.md
 - index.md
